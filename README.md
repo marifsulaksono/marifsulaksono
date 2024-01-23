@@ -7,7 +7,7 @@ I am a backend engineer enthusiast with a good foundation in database schema, ba
 * ✉️  You can contact me at [marifsulaksono@gmail.com](mailto:marifsulaksono@gmail.com)
 * 🧠  I'm learning Go, Node.js, Message Broker, Cache, RBAC, Linux Environment, etc.
 * 🤝  I'm open to collaborating on interesting and impact projects
-* ⚡  I want to switch my career to a profesional software engineer.
+* ⚡  I want to switch my career to be a profesional software engineer.
 
 ### Skills
 
