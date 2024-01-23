@@ -2,7 +2,12 @@ Hi 👋 My name is Muhammad Arif Sulaksono
 ========================================
 Software (Backend) Engineer
 ---------------------------
-I am a backend engineer enthusiast with a good foundation in database schema, backend development, and implementing clean code and architecture. Building a growth backend community in my region is one of my current missions, providing a space for knowledge sharing and networking. My focus is on continuous learning and sharing, and I am excited to explore microservices, message broker, CI/CD, performance optimization and more.* 🌍  I'm based in Indonesia* ✉️  You can contact me at [marifsulaksono@gmail.com](mailto:marifsulaksono@gmail.com)* 🧠  I'm learning Go, Node.js, Message Broker, Cache, RBAC, Linux Environment, etc.* 🤝  I'm open to collaborating on interesting and impact projects* ⚡  I want to switch my career to a profesional software engineer.
+I am a backend engineer enthusiast with a good foundation in database schema, backend development, and implementing clean code and architecture. Building a growth backend community in my region is one of my current missions, providing a space for knowledge sharing and networking. My focus is on continuous learning and sharing, and I am excited to explore microservices, message broker, CI/CD, performance optimization and more.
+* 🌍  I'm based in Indonesia
+* ✉️  You can contact me at [marifsulaksono@gmail.com](mailto:marifsulaksono@gmail.com)
+* 🧠  I'm learning Go, Node.js, Message Broker, Cache, RBAC, Linux Environment, etc.
+* 🤝  I'm open to collaborating on interesting and impact projects
+* ⚡  I want to switch my career to a profesional software engineer.
 
 ### Skills
 
